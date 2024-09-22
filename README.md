@@ -21,7 +21,7 @@ Three models were trained on the data:
 - Decision Tree
 - SVM
 
-  The Lasso model performed the best with an F1 score of 0.99, indicating that the model was able to almost perfectly classify each of the 5 cancer types using only gene expression.
+The Lasso model performed the best with an F1 score of 0.99, indicating that the model was able to almost perfectly classify each of the 5 cancer types using only gene expression.
 
-
+Full technical report can be found in this repository.
   
